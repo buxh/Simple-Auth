@@ -2,7 +2,8 @@
 https://solo.to/buxh
  
 ## Disclaimer
-This is by no means good and could get cracked rather quickly by anyone with a brain. Made over a year ago in under 20 minutes when I was learning the basics of C++
+- This is by no means good and could get cracked rather quickly by anyone with a brain. 
+- Made over a year ago in under 20 minutes when I was learning the basics of C++
 that's why the code is shit :)
 
 ## Note
