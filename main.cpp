@@ -4,7 +4,6 @@
 int main() 
 {
     auth::antidebugger();
-    auth::networkCheck();
     auth::hwidCheck();
     
     if (!auth::access) {
