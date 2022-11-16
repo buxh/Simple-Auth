@@ -4,7 +4,7 @@ https://solo.to/buxh
 ## Disclaimer
 - This is by no means good and could get cracked rather quickly by anyone with a brain. 
 - Made over a year ago in under 20 minutes when I was learning the basics of C++
-that's why the code is shit :)
+~~that's why the code is shit :)~~ *edit: code is readable now.*
 
 ## Note
 To make this more secure, use [xor](https://github.com/JustasMasiulis/xorstr) or [skCrypter](https://github.com/skadro-official/skCrypter) to encrypt all plaintext strings, add more [anti-debugging](https://github.com/search?l=C%2B%2B&q=antidebug&type=Repositories) techniques and obfuscate with a good protector like [themida](https://www.oreans.com/Themida.php) or [vmprotect](https://vmpsoft.com/).
