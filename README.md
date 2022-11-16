@@ -16,7 +16,7 @@ To make this more secure, use [xor](https://github.com/JustasMasiulis/xorstr) or
  - Cross-platform
  - HWID Locked
  - Bad Code!
- 
+ - ~~Network Check~~ *removed since it's client side*
 ## Sample
 ```c++
 int main() 
