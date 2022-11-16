@@ -22,7 +22,6 @@ To make this more secure, use [xor](https://github.com/JustasMasiulis/xorstr) or
 int main() 
 {
     auth::antidebugger();
-    auth::networkCheck();
     auth::hwidCheck();
     
     if (!auth::access) {
