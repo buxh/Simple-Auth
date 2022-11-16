@@ -9,5 +9,3 @@
 #include <tlhelp32.h>
 #include <tchar.h>
 #include <intrin.h>
-#include <psapi.h>
-#include <wininet.h>
